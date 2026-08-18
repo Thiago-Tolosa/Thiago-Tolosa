@@ -78,7 +78,7 @@ Estou sempre buscando evoluir meus conhecimentos em **programação**, **APIs**,
 --- 
 
 
-<img src="assets/movieicon.jfif" width=300 align="right">
+<img src="assets/movieicon2.jfif" width=300 align="right">
 
 <div align="justify">
     
@@ -102,5 +102,14 @@ No meu tempo livre, provavelmente vou estar assistindo algum filme, jogando, aco
 </div>
 
 </br></br></br></br>
+
+---
+
+<!-- Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thiago-Tolosa/Thiago-Tolosa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thiago-Tolosa/Thiago-Tolosa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thiago-Tolosa/Thiago-Tolosa/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
