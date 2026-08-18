@@ -76,3 +76,31 @@ Estou sempre buscando evoluir meus conhecimentos em **programação**, **APIs**,
 </div>
 
 --- 
+
+
+<img src="assets/movieicon.jfif" width=300 align="right">
+
+<div align="justify">
+    
+### Um pouco mais sobre mim! 
+
+Fora do código, sou uma pessoa curiosa e gosto de estar sempre descobrindo coisas novas. Tenho uma grande paixão por **cinema**, além de gostar bastante de **matemática, tênis de mesa, futebol, jogos e tecnologia**. Também valorizo muito o tempo que passo com meus **amigos e família**.
+
+Sempre gostei de desafios que envolvem **lógica e resolução de problemas**, principalmente quando posso entender o raciocínio por trás de uma solução. Essa curiosidade é algo que levo para a programação e que me motiva a aprender novas tecnologias e desenvolver projetos cada vez melhores.
+
+No meu tempo livre, provavelmente vou estar assistindo algum filme, jogando, acompanhando futebol ou simplesmente tentando aprender alguma coisa nova.
+
+**Entre em contato comigo:**
+
+  <a href="https://www.linkedin.com/in/thiago-tolosa">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:thiagoguedesdst@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+</div>
+
+</br></br></br></br>
+
+---
