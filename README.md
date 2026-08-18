@@ -1,12 +1,22 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F28A00&background=7637FF00&center=true&vCenter=true&width=750&lines=Oi!+Eu+sou+Thiago+Tolosa;Seja+bem-vindo+ao+meu+perfil+do+Github!" alt="Typing SVG" /></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=THIAGO%20TOLOSA&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;FULL+STACK+DEVELOPER;TYPESCRIPT+%7C+JAVA+%7C+PYTHON+%7C+POSTGRESQL+%7C+NodeJS;NLP+%7C+SOFTWARE+DEVELOPMENT;WELCOME+TO+MY+CODE+UNIVERSE"/>
+
 </div>
 
----
 
-🎓 Estudante de Desenvolvimento de Software Multiplataforma (DSM) na **FATEC**  
-💻 Interessado em **desenvolvimento web e backend**  
-📍 Jacareí – SP  
+</br> 
+<img src="assets/catgif.gif" width=320 align="left">
+
+<div align="justify">
+
+<!--- About me -->
+### Sobre mim  
+
+
+
 
 ---
 
