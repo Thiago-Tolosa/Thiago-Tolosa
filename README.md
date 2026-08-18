@@ -8,7 +8,6 @@
 
 ---
 
-
 <img src="assets/space3.gif" width=320 align="left">
 
 <div align="justify">
@@ -16,7 +15,64 @@
 <!--- About me -->
  ### Sobre mim  
 
+Sou estudante de **Desenvolvimento de Software Multiplataforma** (DSM) na Fatec Jacareí. Gosto de transformar ideias em soluções funcionais e tenho interesse em **processamento de linguagem natural**, **desenvolvimento web** e **backend**.
+
+Estou sempre buscando evoluir meus conhecimentos em **programação**, **APIs**, **bancos de dados** e **desenvolvimento de aplicações**. Tenho experiência com ``HTML``, ``CSS``, ``TypeScript``, ``Python``, ``Node.js``, ``React``, ``Vite``, ``PostgreSQL``, ``Git`` e ``GitHub``, além de conhecimento em ``Figma``. Atualmente, estou aprofundando meus estudos em **Java**, **MongoDB** e **desenvolvimento backend**.
+
 
 </div>
 
+---
 
+<!--- My stacks -->
+<div align="center">
+
+### Tecnologias que uso
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-6A2C91?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-6A2C91?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-6A2C91?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-6A2C91?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-6A2C91?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-6A2C91?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-6A2C91?style=for-the-badge&logo=python&logoColor=white">
+ <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-6A2C91?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-6A2C91?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-6A2C91?style=for-the-badge&logo=express&logoColor=white">
+</p>
+
+### Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-000000?style=for-the-badge&logo=trello&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/APIs_REST-000000?style=for-the-badge&logo=fastapi&logoColor=white">
+</p>
+
+### Em aprendizado
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-6A2C91?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-6A2C91?style=for-the-badge&logo=openjdk&logoColor=white">
+</p>
+
+---
+
+<!--- Portfolio -->
+<div align="center">
+
+### Portfólio Online
+
+<p align="center">
+
+  🔗 [Acesse o Portfólio](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523017/)
+
+</p>
+
+</div>
+
+--- 
