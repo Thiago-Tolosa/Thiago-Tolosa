@@ -101,8 +101,6 @@ No meu tempo livre, provavelmente vou estar assistindo algum filme, jogando, aco
   
 </div>
 
-</br></br></br></br>
-
 ---
 
 <!-- Snake -->
@@ -113,3 +111,32 @@ No meu tempo livre, provavelmente vou estar assistindo algum filme, jogando, aco
 </picture>
 
 ---
+
+<div align="center">
+
+<p align="center">
+  <img src="assets/gow2.gif" width="250px" height="100px" alt="Gatinho" />
+</p>
+
+<!-- Statistics -->
+### Estatísticas
+
+</div>
+
+| ![Thiago Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thiago-Tolosa&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thiago-Tolosa&hide=Html&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thiago-Tolosa&theme=midnight_purple) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thiago-Tolosa&theme=midnight_purple) | ![](https://streak-stats.demolab.com?user=Thiago-Tolosa&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3) |
+| :-: | :-: |
+
+--- 
+
+<p align="center">
+  <img src="assets/ghostoftsh.gif" width="400px" alt="GIF targaryen" />
+</p>
+
+</br> 
+
+<p align="center">
+  6️⃣7️⃣ 
+</p>
