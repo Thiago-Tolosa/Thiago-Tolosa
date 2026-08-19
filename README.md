@@ -64,12 +64,9 @@
 
 ### Portfólio Online
 
-<p align="center">
-
-  🔗 [Acesse o Portfólio](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523017/)
-
-</p>
-
+  <a href="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523017/">
+    <img src="https://img.shields.io/badge/Acesse_o_Portfólio-6a1b9a?style=for-the-badge&logoColor=white" alt="Acesse o Portfólio">
+  </a>
 </div>
 
 --- 
