@@ -8,19 +8,16 @@
 
 ---
 
-<img src="assets/space3.gif" width=320 align="left">
+<img src="assets/space3.gif" width="320" align="left">
+<img src="https://readme-typing-svg.demolab.com?color=00000000&width=30&height=250&lines=%20" align="left">
 
 <div align="justify">
-
-<!--- About me -->
- ### Sobre mim  
-
-Sou estudante de **Desenvolvimento de Software Multiplataforma** (DSM) na Fatec Jacareí. Gosto de transformar ideias em soluções funcionais e tenho interesse em **processamento de linguagem natural**, **desenvolvimento web** e **backend**.
-
-Estou sempre buscando evoluir meus conhecimentos em **programação**, **APIs**, **bancos de dados** e **desenvolvimento de aplicações**. Tenho experiência com ``HTML``, ``CSS``, ``TypeScript``, ``Python``, ``Node.js``, ``React``, ``Vite``, ``PostgreSQL``, ``Git`` e ``GitHub``, além de conhecimento em ``Figma``. Atualmente, estou aprofundando meus estudos em **Java**, **MongoDB** e **desenvolvimento backend**.
-
-
+  <h3>Sobre mim</h3>
+  <p><small>Sou estudante de <b>Desenvolvimento de Software Multiplataforma</b> (DSM) na Fatec Jacareí. Gosto de transformar ideias em soluções funcionais e tenho interesse em <b>processamento de linguagem natural</b>, <b>desenvolvimento web</b> e <b>backend</b>.</small></p>
+  <p><small>Estou sempre buscando evoluir meus conhecimentos em <b>programação</b>, <b>APIs</b>, <b>bancos de dados e desenvolvimento de aplicações</b>. Tenho experiência com <code>HTML</code>, <code>CSS</code>, <code>TypeScript</code>, <code>Python</code>, <code>Node.js</code>, <code>React</code>, <code>Vite</code>, <code>PostgreSQL</code>, <code>Git</code> e <code>GitHub</code>, além de conhecimento em <code>Figma</code>. Atualmente, estou aprofundando meus estudos em <b>Java</b>, <b>MongoDB</b> e <b>desenvolvimento backend</b>.</small></p>
 </div>
+
+<br clear="all">
 
 ---
 
@@ -115,7 +112,7 @@ No meu tempo livre, provavelmente vou estar assistindo algum filme, jogando, aco
 <div align="center">
 
 <p align="center">
-  <img src="assets/gow2.gif" width="250px" height="100px" alt="Gatinho" />
+  <img src="assets/gow2.gif" width="250px" height="120px" alt="Gatinho" />
 </p>
 
 <!-- Statistics -->
