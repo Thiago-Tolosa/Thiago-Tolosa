@@ -9,7 +9,7 @@
 ---
 
 <img src="assets/space3.gif" width="320" align="left">
-<img src="https://readme-typing-svg.demolab.com?color=00000000&width=30&height=250&lines=%20" align="left">
+<img src="https://readme-typing-svg.demolab.com?color=00000000&width=30&height=320&lines=%20" align="left">
 
 <div align="justify">
   <h3>Sobre mim</h3>
